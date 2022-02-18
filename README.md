@@ -2,7 +2,7 @@
 
 I'm Luiz. I like people and software.
 
-- 🔭 I currently manage a team at AWS, focused in Frontend (AWS Route53 products).
+- 🔭 I currently manage teams at Coursera
 - 🌱 I have a history oscillating between engineering and engineering management. I like both 💕.
 - 📫 How to reach me: https://luiz.dev
 - 😄 Pronouns: he/him
@@ -11,4 +11,3 @@ I'm Luiz. I like people and software.
 **Recruiters**:
 - Only remote roles will get my attention.
 - 4-day work week will get my interest.
-- Open to engineering or leadership positions.
